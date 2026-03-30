@@ -1,14 +1,11 @@
 {
     "description": "Domain to sharing for live individual",
- 
     "owner": {
         "email": "vanthanh130998@gmail.com",
         "username": "vanthanhkma"
     },
- 
     "records": {
-        "A": ["192.168.100.126"]
+        "A": ["203.0.113.1"]
     },
- 
     "proxied": false
 }
