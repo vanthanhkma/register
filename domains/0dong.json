@@ -5,8 +5,8 @@
         "username": "vanthanhkma"
     },
     "repo": "register",
-   "records": {
-    "CNAME": "cname.vercel-dns.com"
-}
+    "records": {
+        "CNAME": "cname.vercel-dns.com"
+    },
     "proxied": false
 }
